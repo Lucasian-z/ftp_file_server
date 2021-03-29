@@ -16,7 +16,7 @@
     - get: get fileName  #下载文件
     - put: put fileName  #上传文件
     - rm: rm fileName    #删除文件
-#### 以下是项目文件树, 存在很多冗余
+#### 以下是项目文件树
 ├── conf
 │   └── ftp_server.conf
 ├── include
